@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文文档编制规范"
+  short_description: "优先沿用指定规范，按文档用途选择合适的结构、签审和 Word 版式"
+  default_prompt: "使用 $chinese-document-standard 编写或复核这份文档，有指定模板就沿用，没有就采用通用规范。"
